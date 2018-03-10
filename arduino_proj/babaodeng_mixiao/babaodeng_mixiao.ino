@@ -1,6 +1,6 @@
 
 /*
- * 名称：八宝灯
+ * 名称：护眼学习灯
  * 作者：周米笑
  * 邮件：mixiao.zhou@qq.com
  * Github: https://github.com/mixiao07/babaohe
